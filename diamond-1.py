@@ -2,9 +2,8 @@
 # coding=utf-8
 #jangan di recode ngentot
 #recode jomblo seumur hidup
-# (MR.K7C8NG) PEMBUAT
-#SUBSCRIBE CHANNEL mrk7c8ng-ices
-#FOLLOW INSTAGRAM @pranata_pasha
+# (animatedissue) PEMBUAT
+#FOLLOW INSTAGRAM @wngfrdh
 
 #Import module
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
@@ -60,17 +59,17 @@ def jalan(z):
 		
 ##### LOGO #####
 logo = """\033[1;96m█████████
-\033[1;96m█▄█████▄█      \033[1;91m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
+\033[1;96m█▄█████▄█     
 \033[1;96m█\033[1;91m▼▼▼▼▼ \033[1;95m- _ --_--\033[1;95m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ 
 \033[1;96m█ \033[1;92m \033[1;95m_-_-- -_ --__\033[1;93m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗
-\033[1;96m█\033[1;91m▲▲▲▲▲\033[1;95m--  - _ --\033[1;96m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;96mGOLD-SETAN
-\033[1;96m█████████      \033[1;92m«----------✧----------»
+\033[1;96m█\033[1;91m▲▲▲▲▲\033[1;95m--  - _ --\033[1;96m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝
+\033[1;96m█████████      
 \033[1;96m ██ ██
 \033[1;96m╔══════════════════════════════════════════════╗
-\033[1;96m║\033[1;96m* \033[1;95mAuthor  \033[1;93m: \033[1;95mBrother•MR.K7C8NG \033[1;96m                ║
-\033[1;96m║\033[1;96m* \033[1;96mGitHub  \033[1;93m: \033[1;96m\033[4mhttps://github.com/pashayogi\033[0m \033[1;96m     ║
-\033[1;96m║\033[1;96m*\033[1;93mYOUTUBE  \033[1;93m: \033[1;91m\033mhttps://youtube.com/c/mrk7c8ng\033[0m \033[1;96m   ║
-\033[1;96m║\033[1;97m*\033[1;97mINSTAGRAM\033[1;92m: \033[1;96m\033m@pranata_pasha\033[0m \033[1;96m                   ║
+\033[1;96m║\033[1;96m* \033[1;95mAuthor  \033[1;93m: \033[1;95manimatedissue \033[1;96m                ║
+\033[1;96m║\033[1;96m* \033[1;96mGitHub  \033[1;93m: \033[1;96m\033[4mhttps://github.com/animatedissue\033[0m \033[1;96m     ║
+\033[1;96m║\033[1;96m*\033[1;93mYOUTUBE  \033[1;93m: \033[1;91m\033mhttps://youtube.com/c/animatedissue\033[0m \033[1;96m   ║
+\033[1;96m║\033[1;97m*\033[1;97mINSTAGRAM\033[1;92m: \033[1;96m\033m@wngfrdh\033[0m \033[1;96m                   ║
 \033[1;96m╚══════════════════════════════════════════════╝"""
 
 # titik #
